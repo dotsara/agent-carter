@@ -7,3 +7,5 @@ Have a public repo, fork it, delete the original: what happens?
 So, let's just see!
 
 Adding an edit in the fork just to have one, next I'll delete the original repo.
+
+SWEET. At least in this case all that happened after deleting the original is that the "forked from" bit disappeared from this repo. :tada: 
